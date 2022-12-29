@@ -56,4 +56,4 @@ Atari Keyboard Controls:
 
 Downloads:
 
-- DUMB PONG v1 (first public release) DUMB PONG v1.xex 
+- DUMB PONG v1 (first public release) https://github.com/VinsCool/DUMB-PONG/releases/tag/v1 
